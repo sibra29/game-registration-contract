@@ -1,0 +1,1 @@
+# game-registration-contract
